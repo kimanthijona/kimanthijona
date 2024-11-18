@@ -1,5 +1,5 @@
 # 💫 About Me:
-Credit scoring Models <br>Data Analyticcs and BI <br>LLMS and Deep learning<br>AI products<br>The deeper the data the more intelligent the product<br>
+Credit scoring Models <br>Data Analytics and BI <br>LLMS & Deep learning<br>AI products<br>The deeper the data the more intelligent the product<br>
 
 
 ## 🌐 Socials:
