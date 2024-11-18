@@ -1,5 +1,5 @@
 # 💫 About Me:
-AI and ML Credit scoring Models <br>GenAI Conversational banking solutions<br>GenAI-driven BI and Analytics<br>LLMS and Deep learning<br>The deeper the data the more intelligent the product<br>
+Credit scoring Models <br>Data Analtycs and BI<br>LLMS and Deep learning<br>The deeper the data the more intelligent the product<br>
 
 
 ## 🌐 Socials:
