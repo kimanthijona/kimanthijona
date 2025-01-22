@@ -2,7 +2,8 @@
 
 Hey there 
 
-My name is Jonathan Kimanthi, and I am an AI enthusiast passionate about Python and Data Science.
+My name is Jonathan Kimanthi, and I am an AI enthusiast passionate about Python and Data Science!
+
 Currently, I am working on building credit scoring models, data analytics products, and AI-powered solutions to serve the unbanked and underserved populations in Ethiopia.
 
 Recently, I developed a BI and data analytics dashboard to visualize and report key metrics related to farmers' activities in the Amhara, Sidama, and Tigray regions of Ethiopia, based on data from the company’s e-voucher system. Check it out here.
