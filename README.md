@@ -1,30 +1,35 @@
 # 💫 About Me:
 
 👋 Hello, I'm Jonathan Kimanthi!
+
 🔍 AI Enthusiast | Data Scientist | Financial Inclusion Advocate
 
 🌟 Passionate about using Python 🐍 and Data Science 📊 to create AI-powered solutions that serve the unbanked and underserved populations in Ethiopia and beyond.
 
-💡 What I'm Working On:
+**💡 **What I'm Working On:****
 
 🏦 Credit Scoring Models: Building innovative solutions to expand access to credit.
+
 📊 Data Analytics Products: Crafting tools to visualize and report key metrics for impactful decision-making.
+
 🤖 AI Solutions: Harnessing artificial intelligence to tackle challenges in financial inclusion.
 
-🚜 Recent Projects:
+**🚜 **Recent Projects:****
 
 BI and Data Analytics Dashboard: Developed a dashboard to visualize and report key metrics for farmers' activities in Ethiopia's Amhara, Sidama, and Tigray regions using data from an e-voucher system. 🌾
 
-🤝 Let's Collaborate!
+**🤝 **Let's Collaborate!****
 
 I’m eager to connect on data science initiatives that drive financial inclusion in underserved markets.
 
-📫 Contact Me:
+**📫 Contact Me:**
+
 📧 Kimanthijona@gmail.com
 
 🌍 Together, we can make a difference through data! 🚀
 
 ## 🌐 Socials:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/JonathanKimanthi) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@KimanthiJona) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@KimanthiJona) 
 
 # 💻 Tech Stack:
