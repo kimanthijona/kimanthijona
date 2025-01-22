@@ -1,15 +1,28 @@
 # 💫 About Me:
 
-Hey there 
+👋 Hello, I'm Jonathan Kimanthi!
+🔍 AI Enthusiast | Data Scientist | Financial Inclusion Advocate
 
-My name is Jonathan Kimanthi, and I am an AI enthusiast passionate about Python and Data Science!
+🌟 Passionate about using Python 🐍 and Data Science 📊 to create AI-powered solutions that serve the unbanked and underserved populations in Ethiopia and beyond.
 
-Currently, I am working on building credit scoring models, data analytics products, and AI-powered solutions to serve the unbanked and underserved populations in Ethiopia.
+💡 What I'm Working On:
 
-Recently, I developed a BI and data analytics dashboard to visualize and report key metrics related to farmers' activities in the Amhara, Sidama, and Tigray regions of Ethiopia, based on data from the company’s e-voucher system. Check it out here.
+🏦 Credit Scoring Models: Building innovative solutions to expand access to credit.
+📊 Data Analytics Products: Crafting tools to visualize and report key metrics for impactful decision-making.
+🤖 AI Solutions: Harnessing artificial intelligence to tackle challenges in financial inclusion.
 
-I am eager to collaborate on data science initiatives that drive financial inclusion in underserved markets. Feel free to reach me at Kimanthijona@gmail.com.
+🚜 Recent Projects:
 
+BI and Data Analytics Dashboard: Developed a dashboard to visualize and report key metrics for farmers' activities in Ethiopia's Amhara, Sidama, and Tigray regions using data from an e-voucher system. 🌾
+
+🤝 Let's Collaborate!
+
+I’m eager to connect on data science initiatives that drive financial inclusion in underserved markets.
+
+📫 Contact Me:
+📧 Kimanthijona@gmail.com
+
+🌍 Together, we can make a difference through data! 🚀
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/JonathanKimanthi) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@KimanthiJona) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@KimanthiJona) 
