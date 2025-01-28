@@ -8,7 +8,10 @@
 📊 Data Analytics Products: Crafting tools to visualize and report key metrics for impactful decision-making.
 🤖 AI Solutions: Harnessing artificial intelligence to tackle challenges in financial inclusion.
 
-**🚜 **Recent Project:****
+**🚜 **Recent Projects:****
+
+Fraud Detection and Prevention Model : A 3-layer AI-driven fraud detection model using machine learning techniques. The system detects fraudulent transactions in real-time with a high accuracy rate, leveraging unsupervised learning, supervised learning, and adaptive feedback mechanisms.🌾
+
 BI and Data Analytics Dashboard: Developed a dashboard to visualize and report key metrics for farmers' activities in Ethiopia's Amhara, Sidama, and Tigray regions using data from an e-voucher system. 🌾
 
 **🤝 **Let's Collaborate!****
