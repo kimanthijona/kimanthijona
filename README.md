@@ -1,7 +1,7 @@
 👋 Hi there, I'm Jonathan Kimanthi!
 
 🚀 AI Enthusiast | Data Scientist | Financial Inclusion Advocate
-🌟 Passionate about using Python 🐍 and Data Science 📊 to create AI-powered solutions that transform lives and expand opportunities for the unbanked and underserved populations in Ethiopia and beyond.
+🌟 Passionate about using Python 🐍 and Data Science 📊 to create AI-powered solutions that transform lives and expand opportunities for the unbanked and underserved populations in Africa and beyond.
 
 **💡 **What I'm Working On:****
 🏦 Credit Scoring Models: Building innovative solutions to expand access to credit.
