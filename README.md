@@ -1,9 +1,9 @@
-👋 *Hi there, Jona !***
+**👋 *Hi there, Jona !**
 
 I’m an AI enthusiast, a data scientist, and someone who’s genuinely passionate about using tech to create opportunities. I enjoy working with Python 🐍 and data science 📊 to build AI solutions that make a difference—especially for underserved communities in Africa and beyond, helping them access financial tools and possibilities.
 
 
-**💡 Stuff I’m Fired Up About:****
+**💡 Stuff I’m Fired Up About:**
 🏦 Credit Scoring Models: I’m working on ways to make credit less of a “nope” and more of a “yes” for people who deserve it.
 📊 Data Analytics Goodies: Building tools that turn messy numbers into clear, “aha!” moments for big decisions.
 🤖 AI Awesomeness: Using artificial intelligence to tackle tricky problems in financial inclusion—because why not?
