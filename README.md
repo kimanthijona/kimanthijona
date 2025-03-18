@@ -1,12 +1,12 @@
-👋 Hi there, I'm Jonathan Kimanthi!
+👋 Hi there, Jona !
 
-🚀 AI Enthusiast | Data Scientist | Financial Inclusion Advocate
-🌟 Passionate about using Python 🐍 and Data Science 📊 to create AI-powered solutions that transform lives and expand opportunities for the unbanked and underserved populations in Africa and beyond.
+I’m an AI enthusiast, a data scientist, and someone who’s genuinely passionate about using tech to create opportunities. I enjoy working with Python 🐍 and data science 📊 to build AI solutions that make a difference—especially for underserved communities in Africa and beyond, helping them access financial tools and possibilities.
 
-**💡 **What I'm Working On:****
-🏦 Credit Scoring Models: Building innovative solutions to expand access to credit.
-📊 Data Analytics Products: Crafting tools to visualize and report key metrics for impactful decision-making.
-🤖 AI Solutions: Harnessing artificial intelligence to tackle challenges in financial inclusion.
+
+**💡 Stuff I’m Fired Up About:****
+🏦 Credit Scoring Models: I’m working on ways to make credit less of a “nope” and more of a “yes” for people who deserve it.
+📊 Data Analytics Goodies: Building tools that turn messy numbers into clear, “aha!” moments for big decisions.
+🤖 AI Awesomeness: Using artificial intelligence to tackle tricky problems in financial inclusion—because why not?
 
 **🚜 **Recent Projects:****
 
@@ -15,11 +15,11 @@ Fraud Detection and Prevention Model : A 3-layer AI-driven fraud detection model
 BI and Data Analytics Dashboard: Developed a dashboard to visualize and report key metrics for farmers' activities in Ethiopia's Amhara, Sidama, and Tigray regions using data from an e-voucher system. 🌾
 
 **🤝 **Let's Collaborate!****
-I’m eager to connect on data science initiatives that drive financial inclusion in underserved markets.
+🌍 Using data to open doors for people who’ve been stuck outside too long. Let’s make it happen together! 🚀
 
 **📫 Contact Me:**
+Got an idea brewing? Hit me up!
 📧 Kimanthijona@gmail.com
-🌍 Together, we can make a difference through data! 🚀
 
 ## 🌐 Socials:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/JonathanKimanthi)  
