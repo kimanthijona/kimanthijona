@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Jona !
 
-I’m a data scientist, and someone who’s genuinely passionate about using tech to create opportunities. I enjoy working with Python to build AI solutions that make a difference—especially for underserved communities in Africa and beyon helping them access customised AI solutions.
+I’m a data scientist, and someone who’s genuinely passionate about using tech to create opportunities. I enjoy working with Python to build AI solutions that make a difference—especially for underserved communities in Africa and beyond.
 
 **💡 Stuff I’m Fired Up About:**
 🏦 Credit Scoring Models: I’m working on ways to make credit less of a “nope” and more of a “yes” for people who deserve it.
