@@ -2,7 +2,7 @@
 
 I’m a data scientist who enjoys working with Python to build products that make a difference—especially for underserved and unbanked communities in Africa and beyond.
 
-** Stuff I’m Fired Up About:**
+**Stuff I’m Fired Up About:**
 
 Credit Scoring Models: I’m working on ways to make credit less of a “nope” and more of a “yes” for people who deserve it.
 
