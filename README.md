@@ -7,13 +7,6 @@ I’m a data scientist who enjoys working with Python to build products that mak
 📊 Data Analytics Goodies: Building tools that turn messy numbers into clear, “aha!” moments for big decisions.
 🤖 AI Awesomeness: Using artificial intelligence to tackle tricky problems in financial inclusion—because why not?
 
-**🚜 **Recent Projects:****
-
-Fraud Detection and Prevention Model : A 3-layer AI-driven fraud detection model using machine learning techniques. The system detects fraudulent transactions in real-time with a high accuracy rate, leveraging unsupervised learning, supervised learning, and adaptive feedback mechanisms.🌾
-
-BI and Data Analytics Dashboard: Developed a dashboard to visualize and report key metrics for farmers' activities in Ethiopia's Amhara, Sidama, and Tigray regions using data from an e-voucher system. 🌾
-
-**🤝 **Let's Collaborate!****
 🌍 Using data to open doors for people who’ve been stuck outside too long. Let’s make it happen together! 🚀
 
 **📫 Contact Me:**
