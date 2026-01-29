@@ -1,19 +1,22 @@
-### 👋 Hi there, I'm Jona !
+###  Hi there, I'm Jona !
 
 I’m a data scientist who enjoys working with Python to build products that make a difference—especially for underserved and unbanked communities in Africa and beyond.
 
-**💡 Stuff I’m Fired Up About:**
-🏦 Credit Scoring Models: I’m working on ways to make credit less of a “nope” and more of a “yes” for people who deserve it.
-📊 Data Analytics Goodies: Building tools that turn messy numbers into clear, “aha!” moments for big decisions.
-🤖 AI Awesomeness: Using artificial intelligence to tackle tricky problems in financial inclusion—because why not?
+** Stuff I’m Fired Up About:**
+
+Credit Scoring Models: I’m working on ways to make credit less of a “nope” and more of a “yes” for people who deserve it.
+
+Data Analytics Goodies: Building tools that turn messy numbers into clear, “aha!” moments for big decisions.
+
+AI Awesomeness: Using artificial intelligence to tackle tricky problems in financial inclusion—because why not?
 
 🌍 Using data to open doors for people who’ve been stuck outside too long. Let’s make it happen together! 🚀
 
-**📫 Contact Me:**
+**Contact Me:**
 Got an idea brewing? Hit me up!
-📧 Kimanthijona@gmail.com
+Kimanthijona@gmail.com
 
-## 🌐 Socials:  
+##  Socials:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/JonathanKimanthi)  
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@KimanthiJona)  
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@KimanthiJona)  
