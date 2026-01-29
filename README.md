@@ -1,4 +1,4 @@
-###  Hi there, I'm Jona !
+#  Hi there, I'm Kimanthi Jona !
 
 I’m a data scientist who enjoys working with Python to build products that make a difference—especially for underserved and unbanked communities in Africa and beyond.
 
